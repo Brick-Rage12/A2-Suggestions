@@ -1,0 +1,1 @@
+This is the max speed a player can go using their booster (5m/s in echo).
