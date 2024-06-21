@@ -4,7 +4,7 @@ Summary:
 The max [[Throwing Speed]] of the [[Scoring Object]] should be different. ^[The real thread is a question about if it should be changed. I changed it to an opinion to make fit the format of this map. -Brick]
 
 Discussion: 
-- [Suggestion Condition](https://discord.com/channels/1092928496474521700/1125113270043422730/1125113539875577897) The speed should only change based on the scaling of the player and the arena. 
+- [Suggestion Condition](https://discord.com/channels/1092928496474521700/1125113270043422730/1125113539875577897) The speed should only change based on the scaling of the player and the [[Arena]]. 
 - [Related Suggestion](https://discord.com/channels/1092928496474521700/1125113270043422730/1125113903391707138) [[Goalie Crease]]
 - [Concern](https://discord.com/channels/1092928496474521700/1125113270043422730/1125113991212052563) CV1 can't track a higher disk speed.
 - [Concern](https://discord.com/channels/1092928496474521700/1125113270043422730/1125114332175417424) most players can't shoot accurate at 19m/s.

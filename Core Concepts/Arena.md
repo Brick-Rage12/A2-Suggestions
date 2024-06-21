@@ -1,0 +1,1 @@
+The location where matches take place and the main game is played.

@@ -1,7 +1,7 @@
 Location: [Thread](https://discord.com/channels/1092928496474521700/1123739757399252993)
 
 Summary:
-Instead of using the joystick for rotating your character, you would grab a surface and tilt your wrists to rotate your character. 
+Instead of using the joystick for rotating your character, you would grab a surface and tilt your wrists to rotate your character. [[Locomotion]]
 
 Discussion:
  - [Related Suggestion](https://discord.com/channels/1092928496474521700/1123739757399252993/1123740346019491860) [[Wrist Based Rotation]]

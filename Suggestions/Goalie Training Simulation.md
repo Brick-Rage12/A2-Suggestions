@@ -1,4 +1,4 @@
-Location: [Thread](https://discord.com/channels/1092928496474521700/1123760341638193182)
+Location: [Thread](https://discord.com/channels/1092928496474521700/1123760341638193182) [Thread](https://discord.com/channels/1092928496474521700/1139309661594595509)
 
 Summary:
 A location in game there a [[Goalie]] go to practice. The simulation would take shots from various angles and speeds.
